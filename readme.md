@@ -1,1 +1,1 @@
-![alt text](description.jpeg)
+![alt text](description.png)
